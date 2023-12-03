@@ -1,8 +1,8 @@
-#Data Collection and Preparation
+# Data Collection and Preparation
 
 We perform this task in the file "01_Data_Preparation.ipynb"
 
-*Order of execution:*
+**Order of execution:**
 
 We will first prepare the data:
 
