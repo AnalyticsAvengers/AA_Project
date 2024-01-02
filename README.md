@@ -1,4 +1,4 @@
-# Data Collection and Preparation
+## Data Collection and Preparation
 
 We perform this task in the file "01_Data_Preparation.ipynb"
 
@@ -10,6 +10,6 @@ We perform this task in the file "01_Data_Preparation.ipynb"
 
 - Clean the data to use in later stages
 
-# Descriptive Analysis
+## Descriptive Analysis
 
 We perform this task in the file "02_Descriptive_Analysis.ipynb"
