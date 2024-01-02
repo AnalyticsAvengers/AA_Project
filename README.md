@@ -9,3 +9,7 @@ We perform this task in the file "01_Data_Preparation.ipynb"
 - Check for missing or erroneous data
 
 - Clean the data to use in later stages
+
+# Descriptive Analysis
+
+We perform this task in the file "02_Descriptive_Analysis.ipynb"
