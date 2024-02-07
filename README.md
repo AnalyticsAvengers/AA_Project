@@ -12,7 +12,7 @@ We perform this task in the file "01_Data_Preparation.ipynb"
 
 ## Descriptive Analysis
 
-We perform this task in the file "02_Descriptive_Analysis.ipynb"
+We perform this task in the file "02_Descriptive_Analysis_final.ipynb"
 
 ## Cluster Analysis
 
@@ -22,8 +22,15 @@ We perform this task in the file "03Cluster_Analysis.ipynb"
 
 We perform this task in the file "04_Utilization_Prediction.ipynb"
 
-## I just want to see what you guys did!
-Then the only files you need are: 01_Data_Preparation_updated.ipynb,
-02_Descriptive Analysis_final.ipynb,
-03_Clustering_Analysis.ipynb + 03_Clustering_Analysis.ipynb_Additional.ipynb
-and 04_Utilization_Prediction_final.ipynb
+## Dependencies
+- Python 3.x
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- TensorFlow (for neural network models)
+
+## Report
+The report is just about 5 pages without exec. summary, figures and tables
