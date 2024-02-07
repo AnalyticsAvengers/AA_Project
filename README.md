@@ -21,3 +21,9 @@ We perform this task in the file "03Cluster_Analysis.ipynb"
 ## Utilization Prediction
 
 We perform this task in the file "04_Utilization_Prediction.ipynb"
+
+## I just want to see what you guys did!
+Then the only files you need are: 01_Data_Preparation_updated.ipynb,
+02_Descriptive Analysis_final.ipynb,
+03_Clustering_Analysis.ipynb + 03_Clustering_Analysis.ipynb_Additional.ipynb
+and 04_Utilization_Prediction_final.ipynb
