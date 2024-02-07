@@ -16,7 +16,7 @@ We perform this task in the file "02_Descriptive_Analysis_final.ipynb"
 
 ## Cluster Analysis
 
-We perform this task in the file "03Cluster_Analysis.ipynb"
+We perform this task in the file "03Cluster_Analysis.ipynb" and some additional clustering in "03Cluster_Analysis_Additional.ipynb"
 
 ## Utilization Prediction
 
